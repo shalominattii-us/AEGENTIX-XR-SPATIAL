@@ -1,4 +1,4 @@
-# AEGENTIX-XR-SPATIAL
+﻿# AEGENTIX-XR-SPATIAL
 
 Consolidated AEGENTIX enterprise repository.
 
